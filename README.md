@@ -30,6 +30,9 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+Commands =
+
+* .mines
 
 Put your Discord Token in line 92!
 If you dont know how to get your bot token, Check this video out
